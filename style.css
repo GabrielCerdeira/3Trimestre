@@ -1,8 +1,8 @@
-body {background-color:black;text-align: center
+body {background-color:white;text-align: center
 justify; font-size: : 18px ;}
-h1 {text-align: center;background-color: ghostwhite;}
-h3{ text-align: justify ;color:black}
- b {color:floralwhite; font-size: 18px;}
- i{color:black; font-size: 18px;}
- header, footer{ background-color: purple; color:black; text-align: center; font-size: :20px;}
+h1 {text-align: center;background-color:white;}
+h3{ text-align: justify ;color:white}
+ b {color:white; font-size: 18px;}
+ i{color:white; font-size: 18px;}
+ header, footer{ background-color:white; color:white; text-align: center; font-size: :20px;}
 
