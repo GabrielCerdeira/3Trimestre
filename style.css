@@ -22,7 +22,7 @@
 }
 
 #menu-h ul li a {
-    color: #FFF;
+    color: rgb(0, 0, 0);
     padding: 20px;
     display: inline-block;
     text-decoration: none;
