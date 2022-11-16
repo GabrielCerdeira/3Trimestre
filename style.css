@@ -8,7 +8,7 @@
 }
 
 #menu-h{
-    background-color: rgb(20, 19, 19);
+    background-color: rgb(0, 0, 0);
 }
 
 #menu-h ul {
@@ -22,7 +22,7 @@
 }
 
 #menu-h ul li a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 20px;
     display: inline-block;
     text-decoration: none;
@@ -40,8 +40,4 @@
 
 #menu-h {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 50%;
-    height: 15px;
 }
