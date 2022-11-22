@@ -9,6 +9,7 @@
 
 #menu-h{
     background-color: rgb(255, 255, 255);
+    border: black solid 2px ;
 }
 
 #menu-h ul {
